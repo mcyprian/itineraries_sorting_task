@@ -96,7 +96,7 @@ In this short task, we want you to demonstrate your best skills. Imagine you're 
 following the best coding practices. Write your solution in Python 3 or Go. You can use all the libraries and APIs that are publicly available. 
 If you have any ideas to make it even better, feel free to include them, like:
 
-### Recommended:
+### Mandatory:
   - Ensure proper test coverage.
   - Create API documentation, e.g. OpenAPI 3.0.
   - Include a README.md with a description and instructions on how to test and run the application.
