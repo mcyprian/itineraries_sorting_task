@@ -108,4 +108,4 @@ If you have any ideas to make it even better, feel free to include them, like:
  - Consider adding data storage and caching.
  - Anything else you'd like to try.
 
-Once you're done, create a private repository with your solution on GitHub and add https://github.com/mcyprian as a contributor.
+Once you're done, create a private repository with your solution on GitHub and add https://github.com/mcyprian and https://github.com/rlapar as a contributors.
